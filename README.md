@@ -64,8 +64,9 @@ Run the app with:
 
 ```bash
 streamlit run app.py
-Make sure your dataset is placed correctly and all libraries are installed.
 ```
+Make sure your dataset is placed correctly and all libraries are installed.
+
 
 🔐 Saving the Model
 The trained model is saved as:
