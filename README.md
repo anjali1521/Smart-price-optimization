@@ -1,6 +1,6 @@
 # 🧠 Smart Price Optimization using XGBoost
 
-This is a machine learning-powered web app built with **Streamlit** that helps optimize product pricing based on historical data. It uses **XGBoost** for regression modeling and provides an interactive dashboard to visualize pricing insights and make custom predictions.
+This is a machine learning-powered web app built with Streamlit that helps optimize product pricing based on historical data. It leverages XGBoost for regression modeling and provides an interactive dashboard to visualize pricing insights, explore trends, and make custom predictions. The goal of this project is to assist businesses in setting smarter prices by combining data-driven analysis with an easy-to-use interface.
 
 ---
 
